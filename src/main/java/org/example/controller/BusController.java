@@ -54,8 +54,6 @@ public class BusController {
 
         var asientoCodigo = scanner.nextInt();
 
-        pasajero.setNombre(scanner.next());
-
         System.out.println("INGRESE EL NOMBRE DEL PASAJERO: ");
 
         pasajero.setNombre(scanner.next());
@@ -105,8 +103,6 @@ public class BusController {
     private static void showErrorMessage() throws IOException {
 
         System.out.println("ERROR: INGRESE UNA OPCIÓN CORRECTA!");
-
-        System.exit(0);
 
         salirMenu();
     }
