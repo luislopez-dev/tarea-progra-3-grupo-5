@@ -1,6 +1,11 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Academic Project
+ * */
+
 package org.example.repository;
 
-import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.example.model.Asiento;
 import org.example.model.Persona;

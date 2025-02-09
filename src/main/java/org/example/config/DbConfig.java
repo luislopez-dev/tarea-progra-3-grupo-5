@@ -1,3 +1,9 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Academic Project
+ * */
+
 package org.example.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;

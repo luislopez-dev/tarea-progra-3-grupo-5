@@ -1,3 +1,8 @@
+/*
+ * Author: Luis López
+ * Website: https://github.com/luislopez-dev
+ * Description: Academic Project
+ * */
 package org.example.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
